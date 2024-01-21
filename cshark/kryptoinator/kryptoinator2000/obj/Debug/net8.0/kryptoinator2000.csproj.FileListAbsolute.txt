@@ -1,0 +1,14 @@
+S:\cshark\kryptoinator\kryptoinator2000\bin\Debug\net8.0\kryptoinator2000.exe
+S:\cshark\kryptoinator\kryptoinator2000\bin\Debug\net8.0\kryptoinator2000.deps.json
+S:\cshark\kryptoinator\kryptoinator2000\bin\Debug\net8.0\kryptoinator2000.runtimeconfig.json
+S:\cshark\kryptoinator\kryptoinator2000\bin\Debug\net8.0\kryptoinator2000.dll
+S:\cshark\kryptoinator\kryptoinator2000\bin\Debug\net8.0\kryptoinator2000.pdb
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.GeneratedMSBuildEditorConfig.editorconfig
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.AssemblyInfoInputs.cache
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.AssemblyInfo.cs
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.csproj.CoreCompileInputs.cache
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.dll
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\refint\kryptoinator2000.dll
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.pdb
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\kryptoinator2000.genruntimeconfig.cache
+S:\cshark\kryptoinator\kryptoinator2000\obj\Debug\net8.0\ref\kryptoinator2000.dll
